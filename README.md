@@ -49,6 +49,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -75,6 +76,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0001-two-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
