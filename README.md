@@ -24,6 +24,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -64,6 +65,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -77,6 +79,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
