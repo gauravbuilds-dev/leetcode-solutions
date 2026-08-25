@@ -60,6 +60,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +86,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0001-two-sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -96,6 +98,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Bit Manipulation
 |  |
