@@ -89,6 +89,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0048-rotate-image](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -104,4 +105,8 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
