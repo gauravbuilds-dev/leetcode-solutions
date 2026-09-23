@@ -57,6 +57,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0142-linked-list-cycle-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -101,6 +102,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0525-contiguous-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0704-binary-search) |
@@ -144,4 +146,8 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
