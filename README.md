@@ -27,6 +27,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0015-3sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -39,6 +40,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -95,6 +97,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0018-4sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -139,6 +142,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -153,4 +157,8 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | ------- |
 | [0525-contiguous-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
