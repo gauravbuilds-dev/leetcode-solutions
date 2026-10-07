@@ -142,11 +142,13 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -161,4 +163,12 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
