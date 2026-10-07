@@ -127,6 +127,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | ------- |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,8 +169,13 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
