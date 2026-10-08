@@ -100,6 +100,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0035-search-insert-position](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -174,6 +175,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0051-n-queens) |
 | [0526-beautiful-arrangement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bracket Sequences
@@ -189,4 +191,8 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
