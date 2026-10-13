@@ -68,6 +68,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0002-add-two-numbers](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0066-plus-one) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +104,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0048-rotate-image](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
