@@ -94,6 +94,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | ------- |
 | [0001-two-sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -154,6 +155,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -195,4 +197,8 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0051-n-queens) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
