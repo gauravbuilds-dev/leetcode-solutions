@@ -27,6 +27,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0015-3sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -98,6 +99,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0014-longest-common-prefix](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
