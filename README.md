@@ -214,6 +214,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,8 +224,17 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
