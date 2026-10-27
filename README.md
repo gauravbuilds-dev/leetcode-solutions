@@ -216,6 +216,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0102-binary-tree-level-order-traversal](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -227,6 +228,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0543-diameter-of-binary-tree](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## DP on Trees
 |  |
 | ------- |
@@ -241,6 +243,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | ------- |
 | [0547-number-of-provinces](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -249,4 +252,16 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
