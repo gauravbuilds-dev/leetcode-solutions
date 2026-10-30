@@ -62,6 +62,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0141-linked-list-cycle](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -85,6 +86,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0016-3sum-closest](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Merge Sort
 |  |
@@ -116,6 +118,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0525-contiguous-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
