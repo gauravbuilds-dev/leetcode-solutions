@@ -64,6 +64,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -74,6 +75,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0048-rotate-image](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +91,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0148-sort-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Merge Sort
 |  |
@@ -122,6 +125,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0162-find-peak-element](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -143,6 +147,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 | [0526-beautiful-arrangement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -157,6 +162,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
