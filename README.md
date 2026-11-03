@@ -46,6 +46,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -299,4 +300,12 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0179-largest-number) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
