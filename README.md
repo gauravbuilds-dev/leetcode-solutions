@@ -39,6 +39,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -68,6 +69,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -97,6 +99,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Merge Sort
 |  |
@@ -135,6 +138,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -174,6 +178,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
