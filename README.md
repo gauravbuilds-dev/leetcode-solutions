@@ -67,6 +67,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0142-linked-list-cycle-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -97,6 +98,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0148-sort-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -135,6 +137,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0162-find-peak-element](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -322,4 +325,12 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
