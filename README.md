@@ -114,6 +114,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0414-third-maximum-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Merge Sort
@@ -165,6 +166,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0526-beautiful-arrangement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0704-binary-search) |
 | [1200-minimum-absolute-difference](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -216,6 +218,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0526-beautiful-arrangement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## String
 |  |
 | ------- |
@@ -338,6 +341,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0179-largest-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Design
 |  |
 | ------- |
@@ -367,4 +371,8 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
