@@ -114,6 +114,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0414-third-maximum-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1200-minimum-absolute-difference](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Merge Sort
 |  |
@@ -165,6 +166,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0540-single-element-in-a-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0704-binary-search) |
+| [1200-minimum-absolute-difference](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
