@@ -38,6 +38,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0142-linked-list-cycle-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -86,6 +87,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0048-rotate-image](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -151,6 +153,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0229-majority-element-ii) |
