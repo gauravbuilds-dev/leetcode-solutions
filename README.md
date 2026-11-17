@@ -45,6 +45,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0344-reverse-string](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -223,6 +224,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0022-generate-parentheses](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## String
@@ -234,6 +236,7 @@ My LeetCode solutions in C++ | Data Structures &amp; Algorithms | Daily coding p
 | [0179-largest-number](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravkumar7488-long/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sliding Window
